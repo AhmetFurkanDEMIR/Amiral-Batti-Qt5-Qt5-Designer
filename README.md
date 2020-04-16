@@ -20,3 +20,11 @@
 
 ![Screenshot_2020-04-16_16-02-23](https://user-images.githubusercontent.com/54184905/79459856-9cf4da80-7ffc-11ea-94ce-0e06cc6d9594.png)
 
+* Oyun Kazanma :
+
+      Size tanımlanan 33 hak içerisinde tüm gemileri vurabilirseniz kazanırsınız.
+      Her başarısız atış puanınızdan düşülmektedir. (Min puan = 0, Max puan = 33)
+      
+![Screenshot_2020-04-16_16-03-23](https://user-images.githubusercontent.com/54184905/79460141-11c81480-7ffd-11ea-9b37-b909702206be.png)
+![Screenshot_2020-04-16_16-03-52](https://user-images.githubusercontent.com/54184905/79460146-1260ab00-7ffd-11ea-8ce5-75112396d8dd.png)
+
