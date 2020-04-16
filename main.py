@@ -1,3 +1,4 @@
+# Ahmet Furkan Demir 2020
 
 import os
 from time import sleep as sl
