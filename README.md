@@ -24,7 +24,14 @@
 
       Size tanımlanan 33 hak içerisinde tüm gemileri vurabilirseniz kazanırsınız.
       Her başarısız atış puanınızdan düşülmektedir. (Min puan = 0, Max puan = 33)
+
+![Screenshot_2020-04-16_16-03-52](https://user-images.githubusercontent.com/54184905/79460146-1260ab00-7ffd-11ea-8ce5-75112396d8dd.png)
+
+* Oyun kaybetme : 
+       
+      Size tanımlanan 33 hak boyunca tüm gemileri vuramazsanız kaybedersiniz.
+      Kaybettiyseniz oyunun sonunda puan kazanamazsınız. 
       
 ![Screenshot_2020-04-16_16-03-23](https://user-images.githubusercontent.com/54184905/79460141-11c81480-7ffd-11ea-9b37-b909702206be.png)
-![Screenshot_2020-04-16_16-03-52](https://user-images.githubusercontent.com/54184905/79460146-1260ab00-7ffd-11ea-8ce5-75112396d8dd.png)
+
 
